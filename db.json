@@ -1,11 +1,14 @@
 {
-  "posts": [
+  "movies": [
     {
       "id": 1,
-      "title": "hello denis"
+      "title": "Avengers",
+      "img": "https://ic.pics.livejournal.com/bigfatcat19/68916090/895636/895636_original.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Avatar",
+      "img": "https://images-na.ssl-images-amazon.com/images/I/51py8Wr0SNL.jpg"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
