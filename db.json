@@ -14,6 +14,11 @@
       "id": 3,
       "title": "Shawshank redemption",
       "img": "https://media1.giphy.com/media/126XZOZ4xUt0NG/giphy.gif"
-    }
+    },
+    {
+      "id": 4,
+      "title": "The Green Mile",
+      "img": "https://images-na.ssl-images-amazon.com/image222s/I/51py8Wr0SNL.jpg"
+    },
   ]
 }
